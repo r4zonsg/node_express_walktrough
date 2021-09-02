@@ -1,0 +1,23 @@
+{
+  "name": "node_express_walktrough",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4zonsg/node_express_walktrough.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r4zonsg/node_express_walktrough/issues"
+  },
+  "homepage": "https://github.com/r4zonsg/node_express_walktrough#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
